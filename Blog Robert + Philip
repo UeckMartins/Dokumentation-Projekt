@@ -8,6 +8,7 @@ Heute haben wir weiter StarLogo ausprobiert, allerdings haben wir nur bedingt Er
 
 24.08.:
 Das Tutorial von AppLab wurde heute beendet, wir haben einen sehr guten Eindruck bekommen von der App und glauben, dass man mit dieser App sehr gut Spiele programmieren könnte. Daher haben wir angefangen, eine App zu schreiben. Erstmal haben wir nur die Basics gemacht, die wir im Tutorial gelernt haben, also Screens zu erstellen und formatieren und mithilfe von Buttons auf den nächsten Screen zu kommen. Außerdem haben wir uns daran versucht, eine zufällige Zahl erstellen zu lassen, heute allerdings ohne Erfolg.
+https://github.com/UeckMartins/Dokumentation-Projekt/blob/3be3106baea88165776699ded55b9b627026cb6a/Screenshot24.08.%20(1).png
 
 30.08.:
 Ab heute haben wir mit der Aufteilung unserer Arbeit angefangen: Robert hat seinen Laptop mitgenommen, weshalb wir zwei Geräte hatten, um unsere App zu schreiben. Allerdings konnten wir nicht zeitgleich am gleichen Projekt arbeiten, weshalb Robert beschlossen hat, sein Spiel „Countdown“ in einem separaten Projekt zu erstellen und zu bearbeiten. Philip hat heute außerdem das Problem der zufälligen Zahl gelöst mithilfe von randomnumber_min_max , allerdings wird diese Zahl nur in der Konsole angezeigt und noch nicht auf dem Screen.
