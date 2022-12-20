@@ -1,4 +1,4 @@
-*Blog Projekt Robert Ueck und Philip Martins
+*Blog Projekt Robert Ueck und Philip Martins*
 
 *17.08.:
 In der heutigen Stunde haben wir verschiedene Projektideen gesammelt, meist waren dies Spieleideen, besprochen wurden ein Schnelligkeitsspiel, wo man so schnell wie möglich auf die  Leertaste drücken muss, 2D Fußball, Schiffe versenken, Mensch, ärger dich nicht und eine Version der britischen TV-Show 8 Out of 10 Cats Does Countdown. Außerdem haben wir heute angefangen StarLogo auszuprobieren.
