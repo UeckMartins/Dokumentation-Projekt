@@ -1,67 +1,67 @@
 *Blog Projekt Robert Ueck und Philip Martins*
 
-*17.08.:
+*17.08.:*
 In der heutigen Stunde haben wir verschiedene Projektideen gesammelt, meist waren dies Spieleideen, besprochen wurden ein Schnelligkeitsspiel, wo man so schnell wie möglich auf die  Leertaste drücken muss, 2D Fußball, Schiffe versenken, Mensch, ärger dich nicht und eine Version der britischen TV-Show 8 Out of 10 Cats Does Countdown. Außerdem haben wir heute angefangen StarLogo auszuprobieren.
 
-*23.08.:
+*23.08.:*
 Heute haben wir weiter StarLogo ausprobiert, allerdings haben wir nur bedingt Erfolg gehabt, bzw. konnten wir uns nicht vorstellen, ein Projekt mit diesem Programm fertigzustellen. Deshalb haben wir Ende der Stunde ein Tutorial zu AppLab angefangen, um dieses kennenzulernen und zu schauen, ob es etwas für uns wäre. Den Blog aus der vorherigen Stunde haben wir auf GitHub nicht mehr gefunden, weshalb wir ab heute alles in einem Word-Dokument aufbewahren werden.
 
-*24.08.:
+*24.08.:*
 Das Tutorial von AppLab wurde heute beendet, wir haben einen sehr guten Eindruck bekommen von der App und glauben, dass man mit dieser App sehr gut Spiele programmieren könnte. Daher haben wir angefangen, eine App zu schreiben. Erstmal haben wir nur die Basics gemacht, die wir im Tutorial gelernt haben, also Screens zu erstellen und formatieren und mithilfe von Buttons auf den nächsten Screen zu kommen. Außerdem haben wir uns daran versucht, eine zufällige Zahl erstellen zu lassen, heute allerdings ohne Erfolg.
 
-*30.08.:
+*30.08.:*
 Ab heute haben wir mit der Aufteilung unserer Arbeit angefangen: Robert hat seinen Laptop mitgenommen, weshalb wir zwei Geräte hatten, um unsere App zu schreiben. Allerdings konnten wir nicht zeitgleich am gleichen Projekt arbeiten, weshalb Robert beschlossen hat, sein Spiel „Countdown“ in einem separaten Projekt zu erstellen und zu bearbeiten. Philip hat heute außerdem das Problem der zufälligen Zahl gelöst mithilfe von randomnumber_min_max , allerdings wird diese Zahl nur in der Konsole angezeigt und noch nicht auf dem Screen.
 
-*31.08.:
+*31.08.:*
 Heute haben wir weiter mit dieser zufälligen Zahl gearbeitet, Robert hatte die Aufgabe, diese generierte Zahl auf den Bildschirm zu bekommen, da dies sehr wichtig für sein neues Spiel „Countdown“ ist, wo man mithilfe von zufälligen Zahlen eine bestimmte angegebene Zahl erreichen soll. Philip hat an einer Version von „Mensch, Ärger dich nicht“ gearbeitet, wo er zunächst das Feld dafür erstellt. In dieser Stunde hat Robert es dann auch geschafft, die generierte Zahl mithilfe von setText auf dem Screen anzeigen zu lassen.
 
-*06.09.:
+*06.09.:*
 Heute hat Philip weiterhin daran gearbeitet, ein Feld für Mensch, ärger dich nicht zu erstellen, dies war sehr zeitaufwendig, weil er dutzende Kreise kopieren musste, um sie in die richtige Reihenfolge zu legen. Robert hat es währenddessen geschafft, die Anzeige von Text/Zahlen von einer Folie auf die nächste übertragen mithilfe von setNumber und getNumber. Dies verwendete er für sein Spiel „Countdown“
 
-*07.09.:
+*07.09.:*
 In dieser Stunde war Herr Buhl nicht da, was uns vor Probleme stellte. Als erstes wurde das Internet uns erst spät gegeben, wodurch Robert einen Großteil der Stunde nicht arbeiten konnte. Weil Herr Buhl nicht da war, konnten wir keine Fragen stellen, was unsere Produktivität in der Stunde beeinflusste, Robert arbeitete nämlich an einem Countdown mit ablaufender Zeit für sein Spiel, wusste aber nicht, wie man einen erstellen konnte. Um zu visualisieren, was er erreichen wollte, schrieb er in einem Word-Dokument („What do I want the game to do“), was er bei diesem Spiel erreichen wollte, wie beispielsweise dem Countdown selbst.
 
-*13.09.:
+*13.09.:*
 Von der heutigen Stunde gab es nicht viel zu berichten, Robert war heute krank und konnte daher nicht mitarbeiten. Philip arbeitet weiter an seinem Projekt, die zufällige Zahl hat er als Würfel für sein Spiel verwendet. Danach versuchte er, seine Figur auf dem Spielfeld zu bewegen.
 
-*14.09.:
+*14.09.:*
 Auch heute war Robert krank, er machte zuhause ein wenig Arbeit, wo er es schafft, einen Countdown zu erstellen, indem er einen Beispiel-Countdown aus dem Menu kopiert und ihn auf sein Spiel versucht zu übertragen. Philip versucht mithilfe der zufälligen Zahl die Figur auf dem Spielfeld zu bewegen, allerdings konnten weder er noch Robert sich eine Lösung überlegen, wie man dies machen könnte.
 
-*27.09.:
+*27.09.:*
 Robert hat weiter mit seinem Countdown gearbeitet und versuchte, eine bestimmte Zeit einzustellen, bislang aber ohne Erfolg. Philip schafft es, seine Figur mithilfe von Knöpfen zu bewegen, die die Figur mithilfe von Koordinatensprüngen steuern kann, dies war zwar ein erster guter Schritt in die richtige Richtung, war allerdings auch ziemlich arbeitsaufwändig, weil jeder einzelne Schritt manuell durch Drücken der Knöpfe getätigt werden musste.
 
-*28.09.:
+*28.09.:*
 Nach dem Erfolg in der letzten Stunde versuchte Philip eine zweite Figur auf das Spielfeld zu bekommen, allerdings ohne Erfolg. Auch Robert kann ihm dabei nicht helfen. Robert schafft es, einen Timer einzustellen, weil er merkte, dass die Zahlenangaben in Millisekunden angegeben wurden. Außerdem bekam er es ihn, dass die restliche Zeit immer oben auf dem Display angezeigt wurde, indem er immer nach Ablauf von 5-Sekunden-Schritten eine Anzeige mit der restlichen Zeit einstellte und immer nach 5 Sekunden mit einer Neuen ersetzt wurde.
 
-*04.10:
+*04.10:*
 Philip hat auch in dieser Stunde weiter daran gesessen, eine zweite Figur zu bewegen, allerdings scheint es ziemlich kompliziert zu sein, alle Versuche scheiterten in dieser Stunde. Weil wir nicht vorankamen, haben wir entschieden, dass Philip ein neues Projekt startet, eine digitale Version von Schere, Stein, Papier. Viele Fortschritte der anderen Spiele konnte er verwenden, wie der zufälligen Zahl, die die Auswahl des Gegners beim Spiel entscheiden würden. Weil auch Robert nicht vorankam, versuchte auch er, ein neues Spiel zu entwickeln, das Spiel „The Word Game“, wo man zufällige Buchstaben bekommt und versucht, diese zu einem möglichst langen Wort zusammen zu bekommen. 
 
-*05.10:
+*05.10:*
 „The Word Game“ war auch heute wieder der Fokus bei Roberts Arbeit, er wollte versuchen, zufällige Buchstaben generieren zu lassen, wusste am Anfang der Stunde noch nicht wie. Philip hat ihm dabei geholfen, weil er ein ähnliches Szenario bei Schere, Stein, Papier hatte, jeder Buchstabe bekommt eine Zahl zugeordnet, eine zufällige Zahl wird ausgelost und die dazugehörige Zahl würde dazu führen, dass ein Buchstabe angezeigt wird. Dieses Verfahren verwendete Robert dann als erstes bei den Vokalen, von denen es vier geben sollte. Die Konsonanten macht er dann in der nächsten Stunde
 
-*26.10.:
+*26.10.:*
 Heute war Philip krank, Robert hat weiter am Spiel “The Word Game” gearbeitet, insgesamt 300 Zeilen Code geschrieben, weil er auch den Konsonanten Zahlen zugeordnet hat. Es wurden so viele Zeilen, weil es fünf Felder für die Anzeige der 21 möglichen Konsonanten gab, weshalb viel Code kopiert werden musste. Außerdem wurde noch ein zweites Screen erstellt, wo das Wort gebildet werden soll, wofür auch ein 45-sekündigen Timer erstellt wurde.
 
-*02.11.:
+*02.11.:*
 Das erste Mal seit langem haben wir uns zusammen auf ein Spiel konzentriert, Schere, Stein, Papier. Es gab Probleme bei der Anzeige von den Bildern für die drei Optionen und es wurde oft nicht angezeigt, ob gewonnen oder verloren wurde. Zwei Paar Augen erweckten sich hier als sehr nützlich, das Problem wurde behoben, es lag daran, dass die Anzeige des Sieges oder der Niederlage aufeinanderlagen und immer eines davon mit hideElement versteckt werden musste. Um anzuzeigen, wie viele Siege man erzielt hat, haben wir im Falle eines Sieges einen Button aufkommen lassen, welchen man für das Addieren der Siege drücken musste. Allerdings hat es bislang mit dem Addieren durch Variablen nicht geklappt, eine Sache, die wir dann in der nächsten Stunde machen müssen. Robert musste auch seine Idee vom Spiel „The Word Game“ aufgeben, da bei diesem als auch bei „Countdown“ es bislang nicht möglich war, eine Anzeige mit Punkten zu erstellen.
 
-*09.11.:
+*09.11.:*
 Das Problem mit dem Zähler haben wir heute gelöst, beim Schreiben des Codes haben wir einen falschen Block gesetzt, die Variable musste erst einmal definiert werde, dadurch gab es einen Fehler im System. Allerdings fanden wir ein neues Problem, jedes Mal bei einem Sieg oder einer Niederlage wurde immer zusätzlich ein Punkt addiert (beim 2. Sieg +2, beim 3. Sieg +3 etc.). Außerdem hat Robert heute ein neues Spiel namens „Stoney Click“ angefangen, inspiriert durch einen Counter im Internet, welches ähnlich wie die App Cookie Clickers funktionieren soll. Ziel ist es, so viele Clicks wie möglich in einem bestimmten Zeitraum zu schaffen, für 45 Sekunden wurde dies fertig gestellt.
 
-*16.11.:
+*16.11.:*
 Auch in dieser Stunde hatten wir das gleiche Problem wie letztes Mal, Philip arbeitet an der Anzeige von den Siegen bei Schere, Stein, Papier, die Anzahl der Siege vergrößerte sich immer um 1 pro Schritt, beim 1. Sieg um +1, beim 2. Sieg um +2, etc.. Robert arbeitet weiter an seinem Spiel, „Stoney Click“, die Timer und der Clicker für 15 Sekunden, 30 Sekunden und 60 Sekunden wurden fertig gestellt. Allerdings gab es hierbei ein Problem, nämlich die Anzahl der Clicks auf die nächste Seite zu bringen. Außerdem arbeitete Robert an dem Design der App, es gab die Überlegung bei jedem Spiel und beim Anfang der App Musik abzuspielen, oder, dass ein Intro erstellt werden sollte. Er entwickelte ein Logo für die App, für die er als Name „Stoney Games“ verwendete. Teil des Logos war der Stein, der bei Schere, Stein, Papier und bei „Stoney Click“ verwendet wurde.
 
-*23.11.:
+*23.11.:*
 Robert erwähnte heute Galgenraten als mögliche Spielidee, allerdings haben wir als Gruppe zu viel zu tun, sodass diese Spielidee schnell wieder abgelehnt wurde. Philip löste heute das Problem bei Schere Stein Papier, anstatt, dass nach einem Sieg, einer Niederlage oder einem Unentschieden man auf einen neuen Screen kommt, bleibt man auf dem gleichen und der Win-Button/Lose-Button wird bei Spielabschluss angezeigt, vorher war dieser durch hideElement versteckt, damit ist das Spiel fertig. Robert entdeckte ein kleines Problem bei Stoney Click entdeckt, nämlich, dass ein Text falsch angegeben worden ist, dies klärte sich aber schnell, das Textfeld war nicht groß genug für den Text, weshalb dieser fehlerhaft angezeigt wurde, dieses Spiel ist jetzt auch fast fertig, allerdings gibt es ein ähnliches Problem wie bei Schere, Stein, Papier, pro Click wird es bei der zweiten Runde +2 bei der dritten Runde +3 etc.. Dieses Problem müssen wir dann nächste Woche versuchen zu beheben.
 
-*06.12.:
+*06.12.:*
 Heute waren wir leider nicht so produktiv wie erhofft, weshalb es auch wenig zu schreiben gibt, gemeinsam haben wir versucht, das Problem mit Stoney Click zu lösen, wir haben verschiedene Variablen und Zahlen eingesetzt, allerdings hat es nie geklappt und bei der zweiten Runde ist jeder Click +2 gewesen. Wir hatten auch versucht, bei der zweiten Runde das Ergebnis zu halbieren, dies hat allerdings langfristig auch nicht geklappt, weil bei der dritten Runde das Ergebnis +3 pro Click genommen wurde. Wir haben uns nur noch auf diese zwei Spiele konzentriert, da unser Projekt bei der Abgabe fertig sein muss.
 
-*07.12.:
+*07.12.:*
 Heute ist endlich der Durchbruch bezüglich Stoney Click gekommen, uns ist eingefallen, wie wir das ähnliche Problem wie bei Schere, Stein, Papier gelöst haben, nämlich, dass wir nach Abschluss des Spiels nicht auf einen separaten Screen gegangen sind, sondern, dass alle Aktionen in dem Spiel auf einem Screen gemacht werden. Robert hat daher ein Testprojekt gemacht, um diese Theorie auch bei Stoney Click anzuwenden, es hat funktioniert. Alle Texte und Nummern von dem Screen nach ablaufender Zeit wurden auf den Screen vom Clicken kopiert, waren erstmal mit hideElement nicht zu sehen und wurden bei Ablauf der Zeit wieder sichtbar. Dies wurde in der Stunde auch erfolgreich auf 15 Sekunden eingestellt und bei 30 Sekunden angefangen, was wir in der nächsten Stunde dann machen müssen.
 
-*13.12.:
+*13.12.:*
 Bei 30 Sekunden zeigte sich bei Stoney Click ein kleines Problem, die durchschnittlichen Clicks pro Sekunde wurden nicht mehr angezeigt. Im Laufe der Stunde stellte sich das gleiche Problem bei 45 Sekunden und 60 Sekunden heraus. Wir beide haben versucht, den Fehler zu finden, allerdings erfolgslos. Wir haben daher beschlossen, dass wenn wir den Fehler auch in der Stunde morgen nicht finden, wir den Durchschnitt bei 30, 45 und 60 Sekunden streichen müssen.
 
-*14.12.:
+*14.12.:*
 Heute waren die letzten beiden Stunden vor Abgabe unseres Projekts, dementsprechend war die Anspannung hoch. Von der letzten Stunde hatten wir noch ein Problem übrig, womit sich Robert am Anfang der Doppelstunde auseinandergesetzt hat. Ziemlich schnell fand er das Problem, weshalb der Durchschnitt der Clicks pro Sekunde nicht mehr angezeigt worden ist: er hat vergessen, bei 30, 45 und 60 Sekunden eine Zeile Code herauszunehmen, nämlich die Zeile, die nach Ablauf der Zeit auf den nächsten Screen stellt. Die Anzeige der durchschnittlichen Clicks hat daher nicht mehr funktioniert, weil es die Anzeige auf diesem Screen nicht mehr gab. Währenddessen hat Philip das Schere, Stein, Papier-Spiel optimiert, indem er noch Soundeffekte für Siege und Niederlagen hinzufügte und hat das Format der App neugestaltet und die zwei Buttons auf der Startseite für unsere zwei Spiele hinzugefügt. Vor Abgabe muss Robert zuhause nur noch das Spiel Stoney Click in die Spiele-App importieren.
